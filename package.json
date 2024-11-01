@@ -14,5 +14,9 @@
     "multer-gridfs-storage": "^5.0.2",
     "nodemailer": "^6.9.16",
     "path": "^0.12.7"
-  }
+  },
+  "scripts": {
+  "start": "node src/server.js"  
 }
+}
+
