@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "compress.js": "^2.1.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "gridfs-stream": "^1.1.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.7.3",
+    "multer": "^1.4.5-lts.1",
+    "multer-gridfs-storage": "^5.0.2",
+    "nodemailer": "^6.9.16",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+  "start": "node src/server.js"  
+}
+}
+
